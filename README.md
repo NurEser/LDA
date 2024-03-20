@@ -1,4 +1,3 @@
-# LDA Topic Modeling on the 20 Newsgroups Dataset
 
 ## Project Overview
 
